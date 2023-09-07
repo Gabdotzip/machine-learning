@@ -1,1 +1,3 @@
 Hi, my name is Gabriel Winston P. Rabanal.
+
+I am a 4th year Computer Science student, specializing in Intelligent Systems. I am currently studying at De La Salle University - Dasmarinas. I recently finished my internship at Hacktiv Colab Inc., which specializes in using Microsoft Power Apps.
